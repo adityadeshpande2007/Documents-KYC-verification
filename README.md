@@ -69,4 +69,4 @@ You need to run both the backend and the frontend.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-Developed by [Aditya Deshpande](https://github.com/tusharmohale108)
+Developed by [Aditya Deshpande](https://github.com/adityadespande2007)
